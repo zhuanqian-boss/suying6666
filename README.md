@@ -1,20 +1,18 @@
 # 速鹰666官网登陆入口
 
-|最新地址|其他地址(可能要翻墙)|
+|最新地址|
+|--------|
+|最新地址1：[suying91.xyz](https://suying91.xyz/auth/register?code=fOxn)|
+|最新地址2：[suying98.xyz](https://suying98.xyz/auth/register?code=fOxn)|
+
+# 以下地址需要翻墙才能打开
+|其他地址(需要翻墙才能打开)|其他地址(需要翻墙才能打开)|
 |--------|--------|
-|01：[suying91.xyz](https://suying91.xyz/auth/register?code=fOxn)|01：[sy66a88.com](https://sy66a88.com/auth/register?code=fOxn)|
-|02：[suying98.xyz](https://suying98.xyz/auth/register?code=fOxn)|02：[sy77a12.com](https://sy77a12.com/auth/register?code=fOxn)|
-|03：[suying100.xyz](https://suying100.xyz/auth/register?code=fOxn)|03：[suying818.xyz](https://suying818.xyz/auth/register?code=fOxn)|
-|04：[suying148.xyz](https://suying148.xyz/auth/register?code=fOxn)|04：[suying810.net](https://suying810.net/auth/register?code=fOxn)|
-|05：[suying159.xyz](https://suying159.xyz/auth/register?code=fOxn)|05：[suying811.com](https://suying811.com/auth/register?code=fOxn)|
-|06：[suying700.xyz](https://suying700.xyz/auth/register?code=fOxn)|06：[suying828.com](https://suying828.com/auth/register?code=fOxn)|
-|07：[suying800.xyz](https://suying800.xyz/auth/register?code=fOxn)|07：[suying200.org](https://suying200.org/auth/register?code=fOxn)|
-|08：[suying822.xyz](https://suying822.xyz/auth/register?code=fOxn)|08：[suying82.com](https://suying82.com/auth/register?code=fOxn)|
-|09：[suying888.xyz](https://suying888.xyz/auth/register?code=fOxn)|09：[suying59.xyz](https://suying59.xyz/auth/register?code=fOxn)|
-|10：[suying900.xyz](https://suying900.xyz/auth/register?code=fOxn)|10：[suying92.xyz](https://suying92.xyz/auth/register?code=fOxn)|
-|11：[suying969.xyz](https://suying969.xyz/auth/register?code=fOxn)|11：[suying999.xyz](https://suying999.xyz/auth/register?code=fOxn)|
-|12：[suying991.xyz](https://suying991.xyz/auth/register?code=fOxn)|12：[suying910.xyz](https://suying910.xyz/auth/register?code=fOxn)|
-|13：[suying992.xyz](https://suying992.xyz/auth/register?code=fOxn)|13：[suying918.xyz](https://suying918.xyz/auth/register?code=fOxn)|
+|其他地址1：[suying200.xyz](https://suying200.xyz/auth/register?code=fOxn)|其他地址2：[sy66a88.com](https://sy66a88.com/auth/register?code=fOxn)|
+|其他地址3：[sy66a88.com](https://sy66a88.com/auth/register?code=fOxn)|其他地址4：[sy77a12.com](https://sy77a12.com/auth/register?code=fOxn)|
+|其他地址5：[suying200.org](https://suying200.org/auth/register?code=fOxn)|其他地址6：[suying82.com](https://suying82.com/auth/register?code=fOxn)|
+|其他地址7：[suying100.xyz](https://suying100.xyz/auth/register?code=fOxn)|其他地址8：[suying400.xyz](https://suying400.xyz/auth/register?code=fOxn)|
+|其他地址9：[suying500.xyz](https://suying500.xyz/auth/register?code=fOxn)|其他地址10：[suying900.xyz](https://suying900.xyz/auth/register?code=fOxn)|
 
 
 
@@ -27,8 +25,8 @@
 支持的支付方式包括微信支付和支付宝支付。
 
 ## 独家优惠代码
-* 包年7折优惠代码：```SYS30```
-* 结束时间：2026年1月31日
+* 【618年费特惠】包年7折优惠代码：```SYS30```
+* 结束时间：2026年6月30日
 
 ## 核心特点
 
